@@ -13,7 +13,7 @@ const NavLiens = () => {
             to={path}
             key={text}
             className="nav-link"
-            onClick={toggleSidebar}
+            // onClick={toggleSidebar}
             end
           >
             <span className="icon">{icon}</span>
